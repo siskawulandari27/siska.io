@@ -28,10 +28,28 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
 }
 .title{
-    font-size: 400;
+    font-size: 400%;
     letter-spacing: 20px;
     font-family: fantasy;
     color: black;
+}
+.asd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.title{
+    font-size: 400%;
+    letter-spacing: 20px;
+    font-family: fantasy;
+    color: black;
+}
+.puisi{
+    font-size: 400%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
 }
